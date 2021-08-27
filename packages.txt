@@ -1,0 +1,16 @@
+py==1.4.33
+requests==2.14.2
+jsonpath==0.82
+premailer==3.10.0
+PyYAML==5.3.1
+selenium
+selenium-wire
+pytest 
+pytest-cov 
+pytest-forked 
+pytest-html 
+pytest-metadata 
+pytest-repeat 
+pytest-rerunfailures 
+pytest-xdist 
+python-dateutil
